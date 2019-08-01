@@ -1,1 +1,29 @@
-{"results":[{"gender":"male","name":{"title":"mr","first":"ryan","last":"pena"},"location":{"street":"3668 marsh ln","city":"irving","state":"minnesota","postcode":37409,"coordinates":{"latitude":"79.5827","longitude":"-134.2217"},"timezone":{"offset":"+5:45","description":"Kathmandu"}},"email":"ryan.pena@example.com","login":{"uuid":"dbc57774-2363-4886-b525-fd81f6bd40df","username":"bluefrog979","password":"dshade","salt":"koAnGGAR","md5":"f73381c167a9546835c4538593e3ec96","sha1":"b0686ead64fd877bd41a6f4dedad41a240b17e48","sha256":"9d2781bbf61211cd79acec8d36b32f45920d3b0982b65740095c435d6452efdc"},"dob":{"date":"1990-09-10T22:43:25Z","age":28},"registered":{"date":"2010-11-28T08:15:15Z","age":8},"phone":"(937)-820-8956","cell":"(306)-102-5554","id":{"name":"SSN","value":"541-76-6949"},"picture":{"large":"https://randomuser.me/api/portraits/men/7.jpg","medium":"https://randomuser.me/api/portraits/med/men/7.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/7.jpg"},"nat":"US"}],"info":{"seed":"90147fafade19115","results":1,"page":1,"version":"1.2"}}
+{
+  "Menu": [
+    {
+      "id": 1,
+      "title": "burger",
+      "prize": "57$"
+    },
+    {
+      "id": 2,
+      "title": "french fries",
+      "prize": "23$"
+    },
+    {
+      "id": 3,
+      "title": "nuggets",
+      "prize": "27$"
+    },
+    {
+      "id": 4,
+      "title": "dessert",
+      "prize": "31$"
+    },
+    {
+      "id": 5,
+      "title": "cofee",
+      "prize": "5$"
+    }
+  ]
+}
