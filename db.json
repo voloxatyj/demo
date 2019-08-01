@@ -1,1 +1,1 @@
-{"Menu":[{"id":1,"item":{"title":"burger"},"composition"=["bred","meet"],"prize":""}
+{"Menu":[{"id":1,"item":{"title":"burger"},"composition":[{"bred"},{"meet"},{"salst"}],"prize":""}
