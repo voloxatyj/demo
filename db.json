@@ -1,5 +1,5 @@
 {
-  "menu": {
+  "menu": [
     {
       "id": 1,
       "title": "burger",
@@ -30,5 +30,5 @@
       "composition": "Coffee with tender whipped milk and ice.",
       "prize": "5$"
     }
-}
-}
+  ]
+    }
