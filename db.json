@@ -3,26 +3,31 @@
     {
       "id": 1,
       "title": "burger",
+      "composition": "Two beef steaks, onion, pickled cucumber, cheddar cheese, fresh salad, seasoned with a special sauce, in a sesame seed bun.",
       "prize": "57$"
     },
     {
       "id": 2,
       "title": "french fries",
+      "composition": "Good potatoes, roasted in natural oil and slightly salted.",
       "prize": "23$"
     },
     {
       "id": 3,
       "title": "nuggets",
+      "composition": "Appetizing slices of tender chicken fillet fried in crunchy breading.",
       "prize": "27$"
     },
     {
       "id": 4,
       "title": "dessert",
+      "composition": "Whipped ice cream, made with good milk, with KitKat® and caramel filler.",
       "prize": "31$"
     },
     {
       "id": 5,
       "title": "cofee",
+      "composition": "Coffee with tender whipped milk and ice.",
       "prize": "5$"
     }
   ]
