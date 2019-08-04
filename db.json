@@ -1,37 +1,37 @@
 {
   "menu": [
     {
-      "id": 1,
+      "id": "1",
       "title": "burger",
       "composition": "Two beef steaks, onion, pickled cucumber, cheddar cheese, fresh salad, seasoned with a special sauce, in a sesame seed bun.",
       "price": "57$"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "french fries",
       "composition": "Good potatoes, roasted in natural oil and slightly salted.",
       "price": "23$"
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "nuggets",
       "composition": "Appetizing slices of tender chicken fillet fried in crunchy breading.",
       "price": "27$"
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "dessert",
       "composition": "Whipped ice cream, made with good milk, with KitKat® and caramel filler.",
       "price": "31$"
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "coffee",
       "composition": "Coffee with tender whipped milk and ice.",
       "price": "5$"
     },
      {
-      "id": 6,
+      "id": "6",
       "title": "Roll",
       "composition": "Roll with mouth-watering prawns, breaded cucumbers and fresh salad, with a sweet sauce in a clear manner.",
       "price": "77$"
