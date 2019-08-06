@@ -37,4 +37,7 @@
       "price": "77$"
     }
   ]
+  "proxy": "http://localhost:3000/"
+
+
 }
