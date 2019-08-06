@@ -30,11 +30,11 @@
       "composition": "Coffee with tender whipped milk and ice.",
       "price": "5$"
     },
-     {
+    {
       "id": "6",
       "title": "roll",
       "composition": "Roll with mouth-watering prawns, breaded cucumbers and fresh salad, with a sweet sauce in a clear manner.",
       "price": "77$"
     }
   ]
-    }
+}
