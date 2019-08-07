@@ -4,7 +4,7 @@
       "id": "1",
       "title": "burger",
       "composition": "Two beef steaks, onion, pickled cucumber, cheddar cheese, fresh salad, seasoned with a special sauce, in a sesame seed bun.",
-      "price": 57$,
+      "price": 57,
       "inOrder":false
     },
     {
