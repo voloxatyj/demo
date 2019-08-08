@@ -17,13 +17,19 @@
         "XL",
         "XXL",
         "Standart"
+      ]
     },
     {
       "id": "2",
       "title": "french_fries",
       "composition": "Good potatoes, roasted in natural oil and slightly salted.",
       "price": "23$",
-      "inOrder": false
+      "inOrder": false,
+      "size": [
+        "XL",
+        "XXL",
+        "Standart"
+      ]
     },
     {
       "id": "3",
@@ -42,6 +48,7 @@
         "XL",
         "XXL",
         "Standart"
+      ]
     },
     {
       "id": "4",
@@ -61,6 +68,7 @@
         "XL",
         "XXL",
         "Standart"
+       ]
     },
     {
       "id": "5",
@@ -90,6 +98,7 @@
         "XL",
         "XXL",
         "Standart"
+       ]
     }
   ]
 }
