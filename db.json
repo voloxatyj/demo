@@ -6,17 +6,17 @@
       "composition": "Two beef steaks, onion, pickled cucumber, cheddar cheese, fresh salad, seasoned with a special sauce, in a sesame seed bun.",
       "price": "57$",
       "inOrder": false,
+      "size": [
+        "XL",
+        "XXL",
+        "Standart"
+      ],
       "ingredients": [
         "salat",
         "cheese",
         "tomatos",
         "cuke",
         "onion"
-      ],
-      "size": [
-        "XL",
-        "XXL",
-        "Standart"
       ]
     },
     {
@@ -37,17 +37,17 @@
       "composition": "Appetizing slices of tender chicken fillet fried in crunchy breading.",
       "price": "27$",
       "inOrder": false,
+      "size": [
+        "XL",
+        "XXL",
+        "Standart"
+      ],
       "ingredients": [
         "chicken",
         "shrimp",
         "turkey",
         "banan",
         "strawbery"
-      ],
-      "size": [
-        "XL",
-        "XXL",
-        "Standart"
       ]
     },
     {
@@ -56,6 +56,11 @@
       "composition": "Whipped ice cream, made with good milk, with KitKat® and caramel filler.",
       "price": "31$",
       "inOrder": false,
+      "size": [
+        "XL",
+        "XXL",
+        "Standart"
+      ],
       "ingredients": [
         "ananas",
         "bilberry",
@@ -63,12 +68,7 @@
         "banan",
         "strawbery",
         "chocolate"
-      ],
-      "size": [
-        "XL",
-        "XXL",
-        "Standart"
-       ]
+      ]
     },
     {
       "id": "5",
@@ -80,6 +80,7 @@
         "XL",
         "XXL",
         "Standart"
+      ]
     },
     {
       "id": "6",
@@ -87,18 +88,18 @@
       "composition": "Roll with mouth-watering prawns, breaded cucumbers and fresh salad, with a sweet sauce in a clear manner.",
       "price": "77$",
       "inOrder": false,
+      "size": [
+        "XL",
+        "XXL",
+        "Standart"
+      ],
       "ingredients": [
         "chicken",
         "shrimp",
         "turkey",
         "banan",
         "strawbery"
-      ],
-      "size": [
-        "XL",
-        "XXL",
-        "Standart"
-       ]
+      ]
     }
   ]
 }
