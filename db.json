@@ -7,9 +7,9 @@
       "price": "57$",
       "inOrder": false,
       "size": [
-        "Standart",
         "XL",
-        "XXL"
+        "XXL",
+        "Standart"
       ],
       "ingredients": [
         "salat",
@@ -26,9 +26,9 @@
       "price": "23$",
       "inOrder": false,
       "size": [
-        "Standart",
         "XL",
-        "XXL"
+        "XXL",
+        "Standart"
       ]
     },
     {
@@ -38,9 +38,9 @@
       "price": "27$",
       "inOrder": false,
       "size": [
-        "Standart",
         "XL",
-        "XXL"
+        "XXL",
+        "Standart"
       ],
       "ingredients": [
         "chicken",
@@ -57,9 +57,9 @@
       "price": "31$",
       "inOrder": false,
       "size": [
-        "Standart",
         "XL",
-        "XXL"
+        "XXL",
+        "Standart"
       ],
       "ingredients": [
         "ananas",
@@ -77,9 +77,9 @@
       "price": "5$",
       "inOrder": false,
       "size": [
-        "Standart",
         "XL",
-        "XXL"
+        "XXL",
+        "Standart"
       ]
     },
     {
@@ -89,9 +89,9 @@
       "price": "77$",
       "inOrder": false,
       "size": [
-        "Standart",
         "XL",
-        "XXL"
+        "XXL",
+        "Standart"
       ],
       "ingredients": [
         "chicken",
