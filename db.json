@@ -12,7 +12,11 @@
         "tomatos",
         "cuke",
         "onion"
-      ]
+      ],
+      "size": [
+        "XL",
+        "XXL",
+        "Standart"
     },
     {
       "id": "2",
@@ -33,7 +37,11 @@
         "turkey",
         "banan",
         "strawbery"
-      ]
+      ],
+      "size": [
+        "XL",
+        "XXL",
+        "Standart"
     },
     {
       "id": "4",
@@ -48,14 +56,22 @@
         "banan",
         "strawbery",
         "chocolate"
-      ]
+      ],
+      "size": [
+        "XL",
+        "XXL",
+        "Standart"
     },
     {
       "id": "5",
       "title": "coffee",
       "composition": "Coffee with tender whipped milk and ice.",
       "price": "5$",
-      "inOrder": false
+      "inOrder": false,
+      "size": [
+        "XL",
+        "XXL",
+        "Standart"
     },
     {
       "id": "6",
@@ -69,7 +85,11 @@
         "turkey",
         "banan",
         "strawbery"
-      ]
+      ],
+      "size": [
+        "XL",
+        "XXL",
+        "Standart"
     }
   ]
 }
