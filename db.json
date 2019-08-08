@@ -5,42 +5,101 @@
       "title": "burger",
       "composition": "Two beef steaks, onion, pickled cucumber, cheddar cheese, fresh salad, seasoned with a special sauce, in a sesame seed bun.",
       "price": "57$",
-      "inOrder":false
+      "inOrder": false,
+      "size": [
+        "Standart",
+        "XL",
+        "XXL"
+      ],
+      "ingredients": [
+        "salat",
+        "cheese",
+        "tomatos",
+        "cuke",
+        "onion"
+      ]
     },
     {
       "id": "2",
       "title": "french_fries",
       "composition": "Good potatoes, roasted in natural oil and slightly salted.",
       "price": "23$",
-      "inOrder":false
+      "inOrder": false,
+      "size": [
+        "Standart",
+        "XL",
+        "XXL"
+      ]
     },
     {
       "id": "3",
       "title": "nuggets",
       "composition": "Appetizing slices of tender chicken fillet fried in crunchy breading.",
       "price": "27$",
-      "inOrder":false
+      "inOrder": false,
+      "size": [
+        "Standart",
+        "XL",
+        "XXL"
+      ],
+      "ingredients": [
+        "chicken",
+        "shrimp",
+        "turkey",
+        "banan",
+        "strawbery"
+      ]
     },
     {
       "id": "4",
       "title": "dessert",
       "composition": "Whipped ice cream, made with good milk, with KitKat® and caramel filler.",
       "price": "31$",
-      "inOrder":false
+      "inOrder": false,
+      "size": [
+        "Standart",
+        "XL",
+        "XXL"
+      ],
+      "ingredients": [
+        "ananas",
+        "bilberry",
+        "blackberry",
+        "banan",
+        "strawbery",
+        "chocolate"
+      ]
     },
     {
       "id": "5",
       "title": "coffee",
       "composition": "Coffee with tender whipped milk and ice.",
       "price": "5$",
-      "inOrder":false
+      "inOrder": false,
+      "size": [
+        "Standart",
+        "XL",
+        "XXL"
+      ]
     },
     {
       "id": "6",
       "title": "roll",
       "composition": "Roll with mouth-watering prawns, breaded cucumbers and fresh salad, with a sweet sauce in a clear manner.",
       "price": "77$",
-      "inOrder":false
+      "inOrder": false,
+      "size": [
+        "Standart",
+        "XL",
+        "XXL"
+      ],
+      "ingredients": [
+        "chicken",
+        "shrimp",
+        "turkey",
+        "banan",
+        "strawbery"
+      ]
     }
   ]
 }
