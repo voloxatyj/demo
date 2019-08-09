@@ -17,7 +17,9 @@
         "tomatos",
         "cuke",
         "onion"
-      ]
+      ],
+      "count": 0,
+      "total": 0
     },
     {
       "id": "2",
@@ -29,7 +31,9 @@
         "XL",
         "XXL",
         "Standart"
-      ]
+      ],
+      "count": 0,
+      "total": 0
     },
     {
       "id": "3",
@@ -48,7 +52,9 @@
         "turkey",
         "banan",
         "strawbery"
-      ]
+      ],
+      "count": 0,
+      "total": 0
     },
     {
       "id": "4",
@@ -68,7 +74,9 @@
         "banan",
         "strawbery",
         "chocolate"
-      ]
+      ],
+      "count": 0,
+      "total": 0
     },
     {
       "id": "5",
@@ -80,7 +88,9 @@
         "XL",
         "XXL",
         "Standart"
-      ]
+      ],
+      "count": 0,
+      "total": 0
     },
     {
       "id": "6",
@@ -99,7 +109,9 @@
         "turkey",
         "banan",
         "strawbery"
-      ]
+      ],
+      "count": 0,
+      "total": 0
     }
   ]
 }
